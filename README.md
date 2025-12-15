@@ -16,7 +16,7 @@ This project analyzes **Adidas sales performance** using **Power BI** to identif
 - Top Products Analysis  
 
 ## 📷 Dashboard Screenshot
-![Dashboard Preview](screenshots/Adidas Screenshot.png)
+![Dashboard Preview](screenshots/Adidas_Screenshot.png)
 
 ## 🔍 Key Insights
 - Certain regions contribute higher revenue
